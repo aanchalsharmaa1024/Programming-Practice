@@ -218,7 +218,7 @@ In the "Repository" you will find the topics and its problems.
 | # | Title | Solution |
 |---| ----- | -------- |
 |147|[Print Recursion](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/A) 
-|148|[Print from 1 to N](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/B) [C++](./C++/148_print1ton.cpp)
+|148|[Print from 1 to N](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/B) | [C++](./C++/148_print1ton.cpp)
 |149|[Print from N to 1](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/C) 
 |150|[Print Digits using Recursion](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/D) 
 |151|[Base Converssion](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/E) 
