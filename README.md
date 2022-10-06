@@ -219,7 +219,7 @@ In the "Repository" you will find the topics and its problems.
 |---| ----- | -------- |
 |147|[Print Recursion](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/A) 
 |148|[Print from 1 to N](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/B) | [C++](./C++/148_print1ton.cpp)
-|149|[Print from N to 1](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/C) 
+|149|[Print from N to 1](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/C) | [C++](./C++/149_printNto1.cpp)
 |150|[Print Digits using Recursion](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/D) 
 |151|[Base Converssion](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/E) 
 |152|[Print Even Indices](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/F) 
